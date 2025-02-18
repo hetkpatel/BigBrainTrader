@@ -1,0 +1,9 @@
+backtesting
+pandas
+torch
+tensorboard
+torchinfo
+matplotlib
+mplfinance
+scikit-learn
+tqdm
