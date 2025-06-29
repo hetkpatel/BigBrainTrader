@@ -5,5 +5,12 @@ tensorboard
 torchinfo
 matplotlib
 mplfinance
+seaborn
 scikit-learn
+stockstats
 tqdm
+yfinance
+ta
+numpy
+gymnasium
+stable-baselines3
